@@ -1,0 +1,14 @@
+@import '@servicenow/sass-kit/host';
+
+#incident-list{
+    margin: 2%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1vw;
+    .item1 {
+        justify-content: center;
+        grid-column-start: 1; 
+        grid-column-end: 3;
+    }
+}
+

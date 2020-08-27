@@ -1,0 +1,1 @@
+export const encodedData = window.btoa("admin:Kofein2386!"); // encode a string

@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-526323-incident-list": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.visualization"],
+				"label": "Incidents list",
+				"icon": "chart-forecast-fill",
+				"description": "Incidents list component"
+			  }
+	    }
+	},
+	"scopeName": "x_526323_test_in_0"
+}
+ 
